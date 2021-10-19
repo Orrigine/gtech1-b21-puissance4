@@ -28,7 +28,7 @@ void fill_col();
 
 
 
-main()
+void main()
 {  
     array_init();
     print_array();
@@ -41,7 +41,7 @@ main()
         current_arr();
     }
 
-    return 0;
+    
 }
 
 
